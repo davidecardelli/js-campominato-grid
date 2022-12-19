@@ -15,7 +15,6 @@ footer{
 .grid {
     height: 70vh;
     width: 70vh;
-    background-color: white;
 
     display: flex;
     flex-wrap: wrap;
